@@ -1,0 +1,15 @@
+1.TURN ON XAMPP OR WAMMP
+
+2.`CREATE DATABASE` AUTOMATICALLY COPY AND PASTE LINK BELOW IN YOUR FAVOURITE WEB BROWSER
+
+  http://localhost/billing_system/database/setup.php
+
+3.YOU CAN REGISTER TO THE WEBSITE AS A CUSTOMER
+
+4.TO ACCESS THE ADMINISTRATION SYSTEM COPY AND PASTE THE LINK BELOW IN YOUR FAVOURITE BROWSER
+
+  http://localhost/billing_system/index.php?page=admin
+  
+  **ADMIN LOGIN CREDENTIALS**
+  { Email:wonganiharry@gmail.com }
+  { password: wonganiharry@gmail.com }
